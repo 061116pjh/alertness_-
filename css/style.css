@@ -1,0 +1,40 @@
+* {
+    @font-face {
+        font-family: 'SBAggroB';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroB.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    background-color: #010101;
+    width: 100vw;
+    height: 100vh;
+    color: #fff;
+    font-size: x-large;
+    font-weight: bolder;
+    display: flex;
+    
+}
+.align-center{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    padding: 5px;
+}
+.alert{
+    background-color: #010101;
+    width: 100vw;
+    height: 100vh;
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
+    display: flex;
+}
