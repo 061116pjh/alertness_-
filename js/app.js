@@ -35,6 +35,6 @@ const autoScroll = () =>{
 }
 typing(fentanyl,0);
 setInterval(autoScroll,6000);
-// typing(fentanyl,0)
+
 
 
