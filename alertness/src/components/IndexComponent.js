@@ -2,6 +2,7 @@
 import '../styles/style.css';
 import AutoScroll from './AutoScroll';
 
+
 const IndexComponent = () => {
   const elementsToScroll = [
     <div className="issue align-center content">
