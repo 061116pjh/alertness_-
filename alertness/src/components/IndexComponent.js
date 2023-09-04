@@ -27,7 +27,7 @@ const IndexComponent = () => {
 
   return (
     <div>
-      {/* AutoScroll 컴포넌트를 렌더링하여 자동 스크롤 기능을 제공합니다 */}
+      {/* AutoScroll 컴포넌트를 렌더링하여 자동 스크롤 기능을 제공한다 */}
       <AutoScroll elements={elementsToScroll} />
     </div>
   );
